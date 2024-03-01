@@ -9,7 +9,6 @@ Setup
 Usage
 API Documentation
 Contributing
-License
 Introduction
 TravelYoga is a travel booking application designed to streamline the process of planning and booking travel arrangements. With TravelYoga, users can search for destinations, view available accommodations, flights, and activities, and make bookings seamlessly.
 
@@ -26,7 +25,6 @@ Express.js
 MongoDB
 Mongoose (ODM for MongoDB)
 JSON Web Tokens (JWT) for authentication
-Passport.js for authentication middleware
 bcrypt.js for password hashing
 Axios for making HTTP requests
 Other libraries as needed
@@ -40,8 +38,6 @@ Run the server using npm start.
 Usage
 Once the server is up and running, you can use the TravelYoga backend to serve requests from the frontend application or test endpoints using tools like Postman.
 
-API Documentation
-For detailed API documentation and usage instructions, refer to the API documentation provided in the API_DOCS.md file.
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
