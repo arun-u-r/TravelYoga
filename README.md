@@ -16,8 +16,8 @@ This repository contains the backend codebase, which includes the RESTful API en
 
 Features
 User authentication and authorization
-CRUD operations for managing destinations, accommodations, flights, and activities
-Search functionality to find destinations, accommodations, flights, and activities
+CRUD operations for managing destinations, accommodations and activities
+Search functionality to find destinations, accommodations and activities
 Booking management for users to view and manage their bookings
 Technologies Used
 Node.js
